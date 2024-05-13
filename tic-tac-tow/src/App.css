@@ -1,0 +1,10 @@
+.body{
+  font-family: sans-serif;
+}
+
+.game{
+  max-width: calc(3.*.100px);
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+}

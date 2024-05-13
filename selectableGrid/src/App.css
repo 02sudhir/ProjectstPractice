@@ -1,0 +1,13 @@
+
+
+body{
+    font-family: sans-serif;
+  }
+
+  .grid{
+    display: grid;
+    grid-template-columns: repeat(var(--cols,10),35px);
+    grid-template-rows: repeat(var(--rows,10),35px);
+  }
+
+  
