@@ -1,0 +1,12 @@
+{
+    "name":"My Chrome extennsion",
+    "version":"1.0.0",
+    "decreptiiion":"best version",
+    "manifest_version":3,
+    "author":"sudhir amruskar",
+    "action":{
+        "default_popup":"index.html",
+        "default_title":"my chrome extenison"
+
+    }
+}

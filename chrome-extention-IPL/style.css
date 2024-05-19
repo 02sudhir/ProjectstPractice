@@ -1,0 +1,24 @@
+body{
+    min-width: 300px;
+    background-image: url('./asset/CT-IPL-2024.jpg  ') ;
+    height: 100%;
+
+  /* Center and scale the image nicely */
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+    
+    
+    
+}
+ul {
+    background-color: black;
+    color: white;
+    opacity: .8;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+ 
